@@ -73,7 +73,7 @@ body {
 
 @media (max-width: 23.4375em) {
   .header__links a {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -106,7 +106,7 @@ body {
 
 @media (max-width: 23.4375em) {
   .timer-block {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 }
 
