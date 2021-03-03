@@ -25,4 +25,4 @@ Project Link: https://slimake.github.io/Stopwatch/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/stopwatch.png
+[product-screenshot]: image/stopwatch.png
