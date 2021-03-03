@@ -4,6 +4,8 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Challenge</a></li>
+    <li><a href="#contact">Solution</a></li>
   </ol>
 </details>
 
