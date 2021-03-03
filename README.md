@@ -14,6 +14,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://slimake.github.io/Stopwatch/)
 
+## Title
+A simple stopwatch. 
+
+## Challenge
+I had a big challenge implementing the logic of using the date object to create the timer for the stopwatch.
+
+## Solution
+With a little bit of googling here and there i was able to understand how to implement the logic.
 
 
 <!-- CONTACT -->
