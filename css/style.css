@@ -59,7 +59,7 @@ body {
   }
 }
 
-@media (max-width: 23.4375em) {
+@media (max-width: 28.75em) {
   .header__links a:not(:last-child) {
     margin-right: 1rem;
   }
@@ -71,7 +71,7 @@ body {
   }
 }
 
-@media (max-width: 23.4375em) {
+@media (max-width: 28.75em) {
   .header__links a {
     font-size: 0.8rem;
   }
@@ -104,7 +104,7 @@ body {
   }
 }
 
-@media (max-width: 23.4375em) {
+@media (max-width: 28.75em) {
   .timer-block {
     font-size: 4rem;
   }
@@ -127,7 +127,7 @@ ul {
   font-size: 2rem;
 }
 
-@media (max-width: 23.4375em) {
+@media (max-width: 28.75em) {
   .show-text, .show-laps {
     font-size: 1.5rem;
   }
