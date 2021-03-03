@@ -1,0 +1,134 @@
+html {
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+* {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ad6767;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 100%;
+  margin: 0px auto;
+}
+
+.header__links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 3.125rem;
+  padding: 3.125rem 0;
+  margin: 0 auto 7rem;
+  text-align: center;
+}
+
+.header__links a {
+  color: #100707bd;
+  text-decoration: none;
+  font-size: 3rem;
+}
+
+.header__links a:not(:last-child) {
+  margin-right: 4rem;
+}
+
+@media (max-width: 63.9375em) {
+  .header__links a:not(:last-child) {
+    margin-right: 3rem;
+  }
+}
+
+@media (max-width: 53.125em) {
+  .header__links a:not(:last-child) {
+    margin-right: 1rem;
+  }
+}
+
+@media (max-width: 23.4375em) {
+  .header__links a:not(:last-child) {
+    margin-right: 1rem;
+  }
+}
+
+@media (max-width: 53.125em) {
+  .header__links a {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 23.4375em) {
+  .header__links a {
+    font-size: 1rem;
+  }
+}
+
+.timer-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  font-size: 15rem;
+}
+
+@media (max-width: 63.9375em) {
+  .timer-block {
+    font-size: 10rem;
+  }
+}
+
+@media (max-width: 53.125em) {
+  .timer-block {
+    font-size: 7rem;
+  }
+}
+
+@media (max-width: 23.4375em) {
+  .timer-block {
+    font-size: 5rem;
+  }
+}
+
+ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.show-text, .show-laps {
+  font-size: 2rem;
+}
+
+@media (max-width: 23.4375em) {
+  .show-text, .show-laps {
+    font-size: 1.5rem;
+  }
+}
