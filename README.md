@@ -2,10 +2,14 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">About The Project</a>
+      <ol>
+        <li><a href="#title">Title</a>
+        <li><a href="#challenge">Challenge</a>
+        <li><a href="#solution">Solution</a></li>
+      </ol>
+    </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#contact">Challenge</a></li>
-    <li><a href="#contact">Solution</a></li>
   </ol>
 </details>
 
